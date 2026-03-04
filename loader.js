@@ -4,8 +4,8 @@ var reader = rl.createInterface({
     output: process.stdout
 })
 
-const username = "leo";
-const password = "leo123";
+const username = "leonavas";
+const password = "leo1234";
 var user_new;
 var user_pass;
 var cin;
